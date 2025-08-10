@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/offline-sync-notes/sw.js', { scope: '/offline-sync-notes/' })})}
