@@ -3,6 +3,7 @@ import react from '@vitejs/plugin-react'
 import { VitePWA } from 'vite-plugin-pwa'
 
 export default defineConfig({
+  base: '/offline-sync-notes/', // 👈 REQUIRED for GitHub Pages
   plugins: [
     react(),
     VitePWA({
@@ -14,7 +15,7 @@ export default defineConfig({
         display: 'standalone',
         background_color: '#ffffff',
         theme_color: '#1976d2',
-        icons: []
+        icons: [] // You can add your app icons here
       }
     })
   ],
