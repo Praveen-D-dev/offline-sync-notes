@@ -4,7 +4,7 @@ A Progressive Web App (PWA) for taking notes offline and syncing them automatica
 Perfect for jotting down ideas without worrying about connectivity.
 
 ## 🚀 Live Demo
-[**View App on GitHub Pages**](https://YOUR-USERNAME.github.io/offline-sync-notes/)
+[**View App on GitHub Pages**](https://Praveen-D-dev.github.io/offline-sync-notes/)
 
 ## ✨ Features
 - Offline-first note storage using IndexedDB
@@ -21,7 +21,7 @@ Perfect for jotting down ideas without worrying about connectivity.
 ## 📦 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR-USERNAME/offline-sync-notes.git
+git clone https://github.com/Praveen-D-dev/offline-sync-notes.git
 
 cd offline-sync-notes
 
